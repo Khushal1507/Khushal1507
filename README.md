@@ -1,12 +1,15 @@
-# 👋 About Me
+## 👋 About Me
 
 Hi, I'm **Khushal Sethiya** – a Computer Science student at Trent University, specializing in **Data Analytics** with a minor in **Business Administration**.
 
-🚀 I'm currently learning and building projects in full-stack development, machine learning, and financial modeling.
+🚀 I’m currently learning and building projects in full-stack development, machine learning, and financial modeling.  
+📊 Passionate about solving real-world problems through data, code, and creative strategy.  
+🧠 I serve as the **Vice President of Outreach for HackTrent 2025**, leading sponsorship efforts and helping organize Trent’s largest hackathon.  
+🏛️ I’m also the **VP of Case Competitions & Conferences** at **TBSA**, where I coordinate academic events that bridge the gap between business theory and industry practice.  
+🤝 I enjoy collaborating with diverse teams and taking on leadership roles that push me to grow.  
+🍜 Outside of tech, I love cooking, playing sports, and learning about new investment trends.
 
-📊 Passionate about solving real-world problems through data, code, and creative strategy.
-
-📫 Reach me at: ktarunkumarsethiya@trentu.ca  
+📫 Reach me at: [ktarunkumarsethiya@trentu.ca](mailto:ktarunkumarsethiya@trentu.ca)  
 🔗 LinkedIn: [linkedin.com/in/khushalsethiya](https://linkedin.com/in/khushalsethiya)
 
 # ⚙️ Tech Stack
@@ -19,23 +22,3 @@ Hi, I'm **Khushal Sethiya** – a Computer Science student at Trent University, 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-# 📈 GitHub Stats
-
-![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushal1507&show_icons=true&theme=dark)
-
-
-<!--
-**Khushal1507/Khushal1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
