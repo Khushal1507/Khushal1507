@@ -45,6 +45,6 @@ Hi, I'm **Khushal Sethiya** – a Computer Science student at Trent University, 
 - 🎨 [**Netflix Redesign – COIS 3560H (Human-Computer Interaction)**](https://www.figma.com/proto/F8GwnaJkD6mTTzjjqJC422/Netflix-Prototype?node-id=3-2&p=f&t=tdS087X0QxkVGGyq-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)  
   Created a UI redesign in Figma addressing usability constraints found in Netflix's interface. The project emphasized user-centered design principles, layout optimization, and interactive prototyping for improved accessibility and navigation.
 
-- 🤖 **BiteBuddy – COIS 3850H (Project Management)**  
+- 🤖 [**BiteBuddy – COIS 3850H (Project Management)**](file:///Users/khushalsethiya/Desktop/COIS_3850%202/homepage.html)  
   As Product Owner, led the development of BiteBuddy, an AI-powered smart recipe assistant designed to simplify cooking, reduce food waste, and encourage healthy eating. Oversaw agile sprint planning, product vision, and final presentation. Features included ingredient recognition, meal planning, AI recipe suggestions, and calendar sync with a freemium model strategy.
 
