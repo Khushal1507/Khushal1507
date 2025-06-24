@@ -36,3 +36,12 @@ Hi, I'm **Khushal Sethiya** – a Computer Science student at Trent University, 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+## 🛠️ Projects
+
+- 🌐 [**Sneakers Canada – COIS 3750H (Online Marketing Principles)**](https://sneakerscanada8.wordpress.com/)  
+  Designed a fully functional marketing website using WordPress for a fictional sneaker brand. Focused on user experience, brand messaging, SEO-friendly structure, and clear call-to-action design to simulate a real-world digital marketing campaign.
+
+- 🎨 [**Netflix Redesign – COIS 3560H (Human-Computer Interaction)**](https://www.figma.com/proto/F8GwnaJkD6mTTzjjqJC422/Netflix-Prototype?node-id=3-2&p=f&t=tdS087X0QxkVGGyq-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)  
+  Created a UI redesign in Figma addressing usability constraints found in Netflix's interface. The project emphasized user-centered design principles, layout optimization, and interactive prototyping for improved accessibility and navigation.
+
